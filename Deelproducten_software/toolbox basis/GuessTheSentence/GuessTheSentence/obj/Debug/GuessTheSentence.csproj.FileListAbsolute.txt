@@ -1,0 +1,10 @@
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\bin\Debug\GuessTheSentence.exe.config
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\bin\Debug\GuessTheSentence.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\bin\Debug\GuessTheSentence.pdb
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.csprojAssemblyReference.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.Form1.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.Properties.Resources.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.csproj.GenerateResource.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.csproj.CoreCompileInputs.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\GuessTheSentence\GuessTheSentence\obj\Debug\GuessTheSentence.pdb
