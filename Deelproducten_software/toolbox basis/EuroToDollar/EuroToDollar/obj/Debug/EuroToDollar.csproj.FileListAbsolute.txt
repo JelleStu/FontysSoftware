@@ -1,0 +1,10 @@
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\bin\Debug\EuroToDollar.exe.config
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\bin\Debug\EuroToDollar.exe
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\bin\Debug\EuroToDollar.pdb
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csprojAssemblyReference.cache
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.Form1.resources
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.Properties.Resources.resources
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csproj.GenerateResource.cache
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.exe
+C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.pdb
