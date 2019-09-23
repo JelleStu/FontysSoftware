@@ -1,0 +1,10 @@
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\bin\Debug\Calorietracker.exe.config
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\bin\Debug\Calorietracker.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\bin\Debug\Calorietracker.pdb
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.csprojAssemblyReference.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.Form1.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.Properties.Resources.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.csproj.GenerateResource.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.csproj.CoreCompileInputs.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\Calorietracker\Calorietracker\obj\Debug\Calorietracker.pdb
