@@ -41,6 +41,7 @@ namespace Calculator
             this.btnToPower = new System.Windows.Forms.Button();
             this.btnDivide = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            MessageBox.Show("Made by Jelle Stukstette!");
             // 
             // txbNumber1
             // 

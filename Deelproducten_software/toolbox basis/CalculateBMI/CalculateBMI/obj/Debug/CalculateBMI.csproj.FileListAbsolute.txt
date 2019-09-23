@@ -1,0 +1,10 @@
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\bin\Debug\CalculateBMI.exe.config
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\bin\Debug\CalculateBMI.exe
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\bin\Debug\CalculateBMI.pdb
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.csprojAssemblyReference.cache
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.Form1.resources
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.Properties.Resources.resources
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.csproj.GenerateResource.cache
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.exe
+C:\Users\Jelle\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.pdb
