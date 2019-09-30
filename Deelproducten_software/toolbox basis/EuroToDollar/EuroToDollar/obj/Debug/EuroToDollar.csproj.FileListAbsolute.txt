@@ -8,3 +8,13 @@ C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csp
 C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csproj.CoreCompileInputs.cache
 C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.exe
 C:\Users\Jelle\source\repos\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.pdb
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\bin\Debug\EuroToDollar.exe.config
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\bin\Debug\EuroToDollar.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\bin\Debug\EuroToDollar.pdb
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csprojAssemblyReference.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.Form1.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.Properties.Resources.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csproj.GenerateResource.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.csproj.CoreCompileInputs.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\EuroToDollar\EuroToDollar\obj\Debug\EuroToDollar.pdb

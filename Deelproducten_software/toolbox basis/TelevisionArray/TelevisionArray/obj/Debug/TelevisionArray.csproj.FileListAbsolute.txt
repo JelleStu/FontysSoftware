@@ -1,0 +1,10 @@
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\bin\Debug\TelevisionArray.exe.config
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\bin\Debug\TelevisionArray.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\bin\Debug\TelevisionArray.pdb
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.csprojAssemblyReference.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.Form1.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.Properties.Resources.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.csproj.GenerateResource.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.csproj.CoreCompileInputs.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\TelevisionArray\TelevisionArray\obj\Debug\TelevisionArray.pdb
