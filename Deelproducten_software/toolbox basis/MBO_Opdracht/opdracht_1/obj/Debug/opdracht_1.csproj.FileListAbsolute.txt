@@ -1,0 +1,29 @@
+c:\users\gebruiker\documents\visual studio 2015\Projects\opdracht_1\opdracht_1\bin\Debug\opdracht_1.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\bin\Debug\opdracht_1.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\bin\Debug\opdracht_1.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\obj\Debug\opdracht_1.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\obj\Debug\opdracht_1.Form1.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\obj\Debug\opdracht_1.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\obj\Debug\opdracht_1.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\obj\Debug\opdracht_1.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\opdracht_1\opdracht_1\obj\Debug\opdracht_1.pdb
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\bin\Debug\opdracht_1.exe.config
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.exe
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.pdb
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\bin\Debug\opdracht_1.exe
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\bin\Debug\opdracht_1.pdb
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.Form1.resources
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.Properties.Resources.resources
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.csproj.GenerateResource.Cache
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.csprojAssemblyReference.cache
+C:\Users\Jelle\Desktop\opdracht_1\opdracht_1\obj\Debug\opdracht_1.csproj.CoreCompileInputs.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\bin\Debug\opdracht_1.exe.config
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\bin\Debug\opdracht_1.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\bin\Debug\opdracht_1.pdb
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.csprojAssemblyReference.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.Form1.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.Properties.Resources.resources
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.csproj.GenerateResource.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.csproj.CoreCompileInputs.cache
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.exe
+C:\Fontys\Fontys 2019 1e semester\FontysSoftware\Deelproducten_software\toolbox basis\MBO_Opdracht\opdracht_1\obj\Debug\opdracht_1.pdb
